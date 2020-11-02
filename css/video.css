@@ -148,9 +148,17 @@ width: 4%;
     border-radius: 16%;
     position: absolute;
     top: 229%;
-    right: 50%;
+    right: 49.5%;
     width: 2%;
     height: 10%;
     background-color: rgb(236, 232, 225);
-
+    transform: rotate(43deg);
+}
+.icon{
+    position: absolute;
+    top: 235%;
+    right: 50%;
+}
+.ico:hover{
+    cursor: pointer;
 }
